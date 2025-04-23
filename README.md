@@ -1,7 +1,9 @@
 ```json
 {
   "name": "Kerushani Sivaneswaran",
-  "degree": "Systems Design Engineering"
+  "school": "University of Waterloo",
+  "degree": "Systems Design Engineering",
+  "previously_at": ["theScore", "OpenText", "Martinrea International", "HubHead"]
 }
 ```
 ### Skills
